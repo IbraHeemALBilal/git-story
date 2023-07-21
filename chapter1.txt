@@ -1,0 +1,1 @@
+1. **Initialize a Git Repository:** Create a new directory called **`git-story`**. Navigate into this directory and initialize a Git repository using **`git init`**.
