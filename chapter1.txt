@@ -1,21 +1,2 @@
-
-Once upon a time, in a village named "Init", lived a brave adventurer named Git.
-
-
-Git was well-known for his curiosity and eagerness to learn.
-He had one dream - to explore the mysterious world of Version Control.
-
-MODIFY
-
-
-MODIFY again
-
-MODIFY again
-MODIFY again
-MODIFY again
-MODIFY again
-MODIFY again
-MODIFY again
-MODIFY again
-MODIFY again
-MODIFY again
+vbnetCopy code
+Git was eager to explore new places.
