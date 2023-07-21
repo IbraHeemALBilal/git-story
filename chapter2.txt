@@ -1,0 +1,8 @@
+2. **Create `chapter2.txt`:** Write a short paragraph about Git's decision to leave Init to explore the world of Version Control in **`chapter2.txt`**. For instance:
+    
+    ```
+    Chapter 2: Git's Decision
+    Git, after much contemplation, decided to leave his home in Init to explore the vast world of Version Control.
+    ```
+    
+    Stage and commit the changes with the message "Chapter 2: Git's decision".
